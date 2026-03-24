@@ -28,5 +28,5 @@
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-tarbouchi-696b32342/)  
+- [Email](mailto:ahmedtaschool@gmail.com)
